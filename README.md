@@ -150,7 +150,7 @@ A hands-on introduction to Spring Boot by building a simple **Student Management
 ---
 
 ## 📂 Repository Contents
-- 📝 **Slides (PDF)** stored in the `slides/` folder.  
+- 📝 **Slides (PDF)** stored in this repository.
 - 📖 **README.md** (this document).  
 
 ---
@@ -164,3 +164,4 @@ This repository is suitable for:
 ---
 
 ✍️ *Created with passion for sharing knowledge.*
+
